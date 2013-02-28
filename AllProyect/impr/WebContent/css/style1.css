@@ -1,0 +1,102 @@
+body{
+	margin:0 auto;
+	width:auto;
+	height:auto;
+	background:#D2DCE6;
+	}
+#cuerpo{
+	width:auto;
+	height:auto;
+	border:1px solid;
+	border-color:#D2DCE6;;
+	}
+
+#logeo{
+	margin:0 auto;
+	margin-top:100px;
+	border:1px solid;
+	width:295px;
+	height:345px;
+	border-radius:10px;
+	background:#8098C1;
+	border-color:#8098C1;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+	}
+table{
+	border:1px solid;
+	width:285px;
+	height:335px;
+	margin:0 auto;
+	margin-top:5px;
+	background:url(//localhost:8080/impr/imagen/fondo.png);
+	border-radius:10px;
+	border:0px;
+	}
+#titulo{
+	height:120px;
+	text-align:center;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:20px;
+	text-shadow:0px 0px 20px rgba(0,0,0,0.5);
+	}
+#subtitulo{
+	padding-left:15px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:11px;
+    height:28px
+	}
+#texto{
+	height:32px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:11px;
+	text-align:right;
+	padding-right:8px;
+	color:#CCC;
+	}
+table #text input{
+	width:125px;
+	height:25px;
+	padding-left:8px;
+	border-radius:5px;
+	border:0px;
+	background:#E4EAF1;
+	}
+#boton{
+	height:50px;
+	}
+#boton input{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+	width:80px;
+	height:28px;
+	border-radius:5px;
+	border:0px;
+	background:#A7BBD1;
+	color:#425571;
+	cursor:pointer;
+	}
+#cc:hover{
+	background:#000;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+	}
+#pie {
+	text-align:center;
+	color:#999;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:13px;
+	}
+	
+#pie a{
+	text-align:center;
+	color:#3D6996;
+	text-decoration:none;
+	text-transform:none;
+	}
+a:hover{
+	color:#FFF;
+	}
+img{
+	padding-right:5px;
+	}
+
+

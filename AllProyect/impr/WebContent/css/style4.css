@@ -1,0 +1,87 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	margin:auto;
+	width:auto;
+	height:auto;
+	}
+#ini_cuerpo{
+	margin:auto;
+	width:950px;
+	height:auto;
+	}
+#ini_arriba, #ini_abajo{
+	width:650px;
+	}
+#ini_arriba{
+	height:200px;
+	}
+#ini_abajo{
+	height:400px;
+	}
+#ini_derecha{
+	width:280px;
+	height:600px;
+	border:1px solid;
+	float:right;
+	margin-top:-600px;
+	}
+h2{
+	color:#435678;
+	padding-left:20px
+	}
+#ini_p{
+	text-align:justify;
+	font-size:16px;
+	color:#C1A593;
+	}
+hr{
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.4);
+	border-color:#FFF;
+	}
+.ini_body p, #ini_p{
+	font-family:"Comic Sans MS", cursive;
+	margin-left:10px;
+	margin-right:10px;
+	
+	}
+.ini_body{
+	width:170px;
+	color:#7C94AB;
+	
+	}
+#ini_table{
+	margin:auto;
+	}
+.ini_head{
+	padding-left:15px;
+	color:#805F4F;
+	font-family:"Comic Sans MS", cursive;
+	font-size:16px;
+	text-shadow:0px 0px 15px rgba(0,0,0,0.8) #E2E0CF;
+	}
+.ini_vacio{
+	width:30px;
+	}
+.ini_footer{
+	text-align:right;
+	}
+#ini_input{
+	width:70px;
+	height:35px;
+	background:#000;
+	color:#D7E7E8;
+	border-radius:7px;
+	border:0px;
+	cursor:pointer;
+	}
+#ini_input:hover{
+	background:#627593;
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.6);
+	border:1px solid #4E6781;
+	}
+#datepicker{
+	width:100px;
+	height:100px;
+	}
+

@@ -1,0 +1,73 @@
+body{
+	margin:auto;
+	width:auto;
+	height:auto;
+	}
+#wraper{
+	width:950px;
+	height: 400px;
+	text-align:center;
+	margin-top: 10px;
+	}
+#usu_p{
+	letter-spacing: -1px;
+	font: normal 18px Georgia, "Times New Roman", Times, serif;
+	color: #4371A3;
+}
+#usu_table{
+	text-align:center;
+	margin:0 auto;
+	}
+#titulo{
+	font-size:12px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	background:url(../imagen/img01.jpg);
+	color:#CCC;
+	height:22px;
+	}
+#contenido{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	color:#616674;
+	}
+#prof{
+	font-size:13px;
+	color:#726352;
+	}
+.td1{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	color:#616674;
+	padding-right:10px;
+	text-align:right;
+	}
+.td2{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	color:#AF877C;
+	padding-left:10px;
+	text-align:left;
+	}
+#input1{
+	width:50px;
+	}
+#boton{
+	background:url(../images/img01.jpg);
+	border:0px;
+	border-radius:5px;
+	color:#CCC;
+	height:25px;
+	width:60px;
+	cursor:pointer;
+	margin-top:5px;
+	}
+#boton:hover{
+	background:url(../images/img06.jpg);
+	color:#FFF;
+	}
+
+#input2{
+	width:160px;
+	}
+
+

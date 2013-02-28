@@ -1,0 +1,185 @@
+body{
+	margin:0 auto;
+	width:auto;
+	height:auto;
+	background:#D2DCE6;
+	}
+#cuerpo{
+	width:100%;
+	height:auto;
+	margin:auto;
+	}
+#head{
+	margin:0 auto;
+	background:url(../images/img06.jpg);
+	width:100%;
+	height:40px;
+	}
+#menu_ex{
+	margin:auto;
+	width:980px;
+	height:auto;
+	}
+#logo{
+	width:350px;
+	height:40px;
+	float:left;
+	}
+#logo p{
+	margin-top:9px;
+	color:#D1BAAB;
+	font-size:14px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	}
+#con, #nav{
+	margin-top:9px; 
+	width:auto;
+	height:auto;
+	float:right;
+	}
+ #con li, #nav li{
+	display: inline-block;
+	}
+#img1{
+	width:100px;
+	height:16px;
+	background:url(../images/sesion.png);
+	}
+#img2{
+	width:60px;
+	height:16px;
+	background:url(../images/config_1.png);
+	}
+#img1:hover{
+	background:url(../images/sesion2.png);
+	}
+#img2:hover{
+	background:url(../images/config_2.png);
+	}
+#marco1{
+	width:100%;
+	height:8px;
+	background:#ABB5BA;
+	box-shadow:0px 0px 20px rgba(0,0,0,0.4);
+	}
+#menu-principal{
+	width:980px;
+	height:100px;
+	margin:auto;
+	}
+#nav{
+	margin:auto;
+	width:938px;
+	height:55px;
+	border:1px solid;
+	border-color:#666;
+	margin-top:25px;
+	border-radius:5px;
+	background:url(../images/menu-fondo1.jpg);
+	box-shadow:0px 0px 15px rgba(0,0,0,0.5);
+	}
+#nav li{
+	width:140px;
+	height:42px;
+	border-right:1px solid;
+	border-color:#999;
+	text-align:center;
+	padding-top:13px;
+	color:#000;
+	font-size:14px;
+	font-weight:bold;
+	font-family:"Comic Sans MS", cursive;
+	text-shadow:0px 1px 0px #FFFFFF;
+	margin-left:-4px;
+	}
+#nav li img{
+	padding-right:8px;
+	vertical-align:-5px;
+	}
+#indice{
+	border-left:1px solid;
+	}
+a{
+	text-decoration:none;
+	color:#000;
+	}
+#nav li:hover{
+	background:url(../images/menu-cambio.jpg);
+	}
+
+
+#section{
+	width:100%;
+	height:auto;
+	}
+
+#section_head{
+	width:980px;
+	height:30px;
+	border:1px solid;
+	border-radius: 7px 7px 0px 0px;
+	border-color:#999;
+	margin:auto;
+	background:url(../images/menu-head.jpg);
+	border-bottom:0px;
+	}
+#section_body{
+	width:980px;
+	height:auto;
+	border:1px solid;
+	border-top:1px solid ;
+	margin:auto;
+	background:#F7F7F7;
+	border-color:#999;
+	border-bottom:1px solid #F9F9F9;
+	}
+#section_head p{
+	margin-top: 6px;
+	margin-left:12px;
+	font-size:14px;
+	font-family:"Comic Sans MS", cursive;
+	}
+strong{
+	color:#947567;
+	}
+#section_footer{
+	width:980px;
+	height:30px;
+	border:1px solid;
+	border-radius: 0px 0px 7px 7px;
+	border-top:0px;
+	border-color:#999;
+	margin:auto;
+	background:url(../images/fondo-footer.jpg);
+	}
+
+#img1, #img2 , .point, #pupo li a.point{
+	cursor: pointer;
+}
+
+#iframe{
+	width:950px;
+	height: auto;
+	border:1px solid #F7F7F7 ;
+	margin:15px;
+	}
+	#time{
+	width:100px;
+	height:auto;
+	float:right;
+	margin-top:-32px;
+	color:#5E4437;
+	}
+ul li #p {
+
+display: block;
+
+}
+#field1, #field2, #field3, #field4, #field5, #field6{
+ margin-top: 20px;
+ margin-left: 40px;
+  width: 320px;
+  float: left;
+}
+
+
